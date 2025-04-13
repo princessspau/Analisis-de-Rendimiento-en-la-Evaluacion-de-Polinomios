@@ -1,1 +1,1 @@
-# An-lisis-de-Rendimiento-en-la-Evaluaci-n-de-Polinomios-
+# Analisis-de-Rendimiento-en-la-Evaluacion-de-Polinomios-
