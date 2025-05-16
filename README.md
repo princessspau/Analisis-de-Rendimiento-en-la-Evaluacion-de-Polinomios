@@ -86,3 +86,16 @@ Recomendado para polinomios de cualquier grado, especialmente altos
 ## Ventaja principal:
 El método de Horner reduce significativamente el número de operaciones necesarias, lo que se traduce en un mejor rendimiento, como demuestran los resultados experimentales en este proyecto.
 
+## Gráfica comparativa:
+
+![Gráfica Comparativa](grafica_poli.png)
+
+### Gráfica comparativa de desempeño
+
+La gráfica muestra el tiempo promedio de ejecución (en nanosegundos) de ambos métodos al evaluar polinomios de distintos grados. Se observa que:
+
+- El **método estándar** incrementa su tiempo de forma cuadrática conforme crece el grado del polinomio.
+- El **método de Horner** mantiene un tiempo prácticamente constante, mostrando una gran eficiencia.
+
+Esto evidencia la superioridad del método de Horner, especialmente para polinomios de alto grado.
+
