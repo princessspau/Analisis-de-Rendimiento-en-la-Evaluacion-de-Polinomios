@@ -42,7 +42,7 @@ g++ -o evaluador evaluacion_de_polinomios.cpp -O3
 ```bash
 ./evaluador
 ```
-## Descripción de los Algoritmos de Evaluación Polinomial
+### Descripción de los Algoritmos de Evaluación Polinomial
 Método Estándar (Evaluación Directa)
 Este método evalúa el polinomio calculando cada término de forma independiente y sumando los resultados. Para un polinomio P(x) = aₙxⁿ + aₙ₋₁xⁿ⁻¹ + ... + a₁x + a₀:
 
